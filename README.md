@@ -13,3 +13,11 @@ docker build -f Dockerfile -t ma_super_app .
 
 ## Etape 4
 - Voir docker-compose.yml
+- .env :
+````
+NODE_ENV=production
+
+MYSQL_DATABASE=tp02
+MYSQL_USER=root
+MYSQL_PASSWORD=root
+````
