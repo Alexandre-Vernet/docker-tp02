@@ -10,3 +10,6 @@ a.
 ```
 docker build -f Dockerfile -t ma_super_app .
 ```
+
+## Etape 4
+- Voir docker-compose.yml
